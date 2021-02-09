@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\(Praktikum) Praktikum Pemograman Aplikasi Bergerak 2 (Mobile)\\android-advanced-starter-apps-master\\FragmentExample_start\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v13\\values-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\-- Arya --\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\c7e1fdd94c2be5eb175a4a33122892dd\\res\\values-v13\\values-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "58",
+                        "endOffsets": "109"
+                    }
+                }
+            ]
+        }
+    ]
+}

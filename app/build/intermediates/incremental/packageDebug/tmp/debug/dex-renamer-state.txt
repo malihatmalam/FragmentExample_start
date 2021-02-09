@@ -1,0 +1,4 @@
+#Tue Feb 09 23:20:55 ICT 2021
+base.0=E\:\\(Praktikum) Praktikum Pemograman Aplikasi Bergerak 2 (Mobile)\\android-advanced-starter-apps-master\\FragmentExample_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
